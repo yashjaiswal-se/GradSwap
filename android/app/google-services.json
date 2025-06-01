@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599547580554",
+    "project_id": "gradswap-90fa0",
+    "storage_bucket": "gradswap-90fa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599547580554:android:1b696b0e8452bddcad1d73",
+        "android_client_info": {
+          "package_name": "com.example.gradswap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-W-Jf86MBTwa75DGZDxLZkvhv8zwWCf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
